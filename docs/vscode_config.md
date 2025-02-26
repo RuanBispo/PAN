@@ -11,10 +11,12 @@ To add the extensions it is just go to the left bar inside of the vscode, go to 
 
 ## Basic setup
 
-First of all, you have to open your work directory. (it used to be the repo you cloned, or a new one). in our case it will be the folder `~/Documents/code/PAN`.
+First of all, you have to open your work directory. (it used to be the repo you cloned, or a new one). 
 ```
 File -> Open folder
 ```
+In our case it will be the folder `~/Documents/code/PAN`.
+
 After this, you can add all folders or projects you need using (Optional):
 ```
 File -> Add folder to the workspace
