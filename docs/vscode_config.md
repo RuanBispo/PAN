@@ -11,11 +11,11 @@ To add the extensions it is just go to the left bar inside of the vscode, go to 
 
 ## Basic setup
 
-First of all, you have to open your work directory:
+First of all, you have to open your work directory. (it used to be the repo you cloned, or a new one)
 ```
 File -> Open folder
 ```
-After this you can add all folders or projects you need using:
+After this, you can add all folders or projects you need using (Optional):
 ```
 File -> Add folder to the workspace
 ```
